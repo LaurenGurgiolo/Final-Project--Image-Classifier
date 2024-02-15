@@ -5,5 +5,4 @@ program. In this project, students first develop code for an image
 classifier built with PyTorch, then convert it into a command line 
 application.
 
-file:///Users/laurengurgiolo/Downloads/Classify%20Images/Image%20Classifier%20Project.html
-
+/Users/laurengurgiolo/Documents/GitHub/Final-Project--Image-Classifier/Image Classifier Project.html
